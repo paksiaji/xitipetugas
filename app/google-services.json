@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "606226669833",
+    "firebase_url": "https://xitiapps.firebaseio.com",
+    "project_id": "xitiapps",
+    "storage_bucket": "xitiapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606226669833:android:79fa9b1e3829d5ae",
+        "android_client_info": {
+          "package_name": "com.example.xiti_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606226669833-jietm605kc915v8neqlpl9pf589u09sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xiti_flutter",
+            "certificate_hash": "cda41bcd10558cfa330067e4204380006fedf0f5"
+          }
+        },
+        {
+          "client_id": "606226669833-tarhcr13n6ig5pav21c674ga5cvgo0iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Wi8gN1kK-HnJglZJD-6zlTjCjyJ_JWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606226669833-tarhcr13n6ig5pav21c674ga5cvgo0iv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606226669833-1gubpk84rgt54tm8vo2m6s9bkkanh6l4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xitiNganjuk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606226669833:android:1ace848f4959ec49",
+        "android_client_info": {
+          "package_name": "com.example.xiti_nganjuk_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606226669833-6g1m8g4umm4grfvss0ied1othccvdgpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xiti_nganjuk_v2",
+            "certificate_hash": "cda41bcd10558cfa330067e4204380006fedf0f5"
+          }
+        },
+        {
+          "client_id": "606226669833-tarhcr13n6ig5pav21c674ga5cvgo0iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Wi8gN1kK-HnJglZJD-6zlTjCjyJ_JWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606226669833-tarhcr13n6ig5pav21c674ga5cvgo0iv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606226669833-1gubpk84rgt54tm8vo2m6s9bkkanh6l4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xitiNganjuk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606226669833:android:f6a161f37b197053",
+        "android_client_info": {
+          "package_name": "com.example.xitipetugas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606226669833-hq2v9l4js0gi9pkf3avfsqoofhkkjfve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xitipetugas",
+            "certificate_hash": "1c6c6b54cbc8653f25307204af6d61c6d3110d93"
+          }
+        },
+        {
+          "client_id": "606226669833-tarhcr13n6ig5pav21c674ga5cvgo0iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Wi8gN1kK-HnJglZJD-6zlTjCjyJ_JWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606226669833-tarhcr13n6ig5pav21c674ga5cvgo0iv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606226669833-1gubpk84rgt54tm8vo2m6s9bkkanh6l4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xitiNganjuk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
